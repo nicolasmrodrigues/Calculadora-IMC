@@ -1,0 +1,28 @@
+.form {
+  width: 50%;
+  margin: auto;
+}
+
+.label,
+.input {
+  font-size: 18px;
+}
+
+.buttonCalcular {
+  width: 100%;
+  height: 40px;
+}
+
+.resultado {
+  width: 200px;
+  margin: 0 auto;
+  border-radius: 16px;
+}
+
+.resultadoNegativo {
+  background-color: #ff5202;
+}
+
+.resultadoPositivo {
+  background-color: #6bc96b;
+}
